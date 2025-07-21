@@ -85,3 +85,7 @@ coverage/
 # Local history
 .history/
 .ionide/
+
+# Firebase service account keys
+workout-effective-15af8-firebase-adminsdk-fbsvc-7c3b15f5e6.json
+*-firebase-adminsdk-*.json
