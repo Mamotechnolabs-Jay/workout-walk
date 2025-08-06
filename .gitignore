@@ -3,7 +3,7 @@ node_modules/
 jspm_packages/
 
 # Environment variables
-.env
+#.env
 .env.local
 .env.development.local
 .env.test.local
@@ -85,7 +85,3 @@ coverage/
 # Local history
 .history/
 .ionide/
-
-# Firebase service account keys
-workout-effective-15af8-firebase-adminsdk-fbsvc-7c3b15f5e6.json
-*-firebase-adminsdk-*.json
